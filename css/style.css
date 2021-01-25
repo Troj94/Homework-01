@@ -1,4 +1,64 @@
-.title {
-    background: burlywood;
-    background-color: chocolate;
+.upper-line {
+    width: 1600px;
+    height: 80px;
+    border: 1px solid #000000;
+}
+.logo {
+    margin-left: 145px;
+    margin-top: 31px;
+    height: 31px;
+    width: 145px;
+    left: 215px;
+    top: 24px;
+    border-radius: nullpx;
+}
+.hat {
+    background-color: #2F303A;
+    height: 600px;
+    width: 1600px;
+    left: 0px;
+    top: 80px;
+    border-radius: [object Object]px;
+}
+h1 {
+    padding: 200px 452px 280px;
+    height: 120px;
+    width: 696px;
+    border-radius: nullpx;
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0.06em;
+    text-align: center;
+}
+button {
+    background-color: #2196F3;
+    border-radius: 4px;
+    height: 50px;
+    width: 200px;
+    margin-top: 100px;
+    /*
+    padding-left: 700px;
+    padding-right: 700px;
+    padding-top: 50px;
+    padding-bottom: 200px;
+    */
+
+
+
+}
+.button-text {
+    height: 30px;
+    width: 136px;
+    border-radius: nullpx;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0.06em;
+    text-align: center;
 }
