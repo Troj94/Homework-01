@@ -1,18 +1,21 @@
-.upper-line {
+/* .navigation-menu {
+display: inline;
+}
+header {
     width: 1600px;
     height: 80px;
     border: 1px solid #000000;
 }
 .logo {
     margin-left: 145px;
-    margin-top: 31px;
+    padding-left: 31px;
     height: 31px;
     width: 145px;
     left: 215px;
     top: 24px;
     border-radius: nullpx;
 }
-.hat {
+.hero {
     background-color: #2F303A;
     height: 600px;
     width: 1600px;
@@ -40,17 +43,14 @@ button {
     height: 50px;
     width: 200px;
     margin-top: 100px;
-    /*
+    <!--
     padding-left: 700px;
     padding-right: 700px;
     padding-top: 50px;
-    padding-bottom: 200px;
-    */
-
-
+    padding-bottom: 200px;-->
 
 }
-.button-text {
+.order-service {
     height: 30px;
     width: 136px;
     border-radius: nullpx;
@@ -61,4 +61,4 @@ button {
     line-height: 30px;
     letter-spacing: 0.06em;
     text-align: center;
-}
+} */
